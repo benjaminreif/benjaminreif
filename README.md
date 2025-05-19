@@ -13,9 +13,15 @@ I'm an IT student at a specialized high school in Germany, with a passion for so
 - Build useful and smart tools powered by AI
 - Work in the financial tech industry — ideally in Switzerland 🇨🇭
 
-## 📌 Current Project
+## 📌 Current Projects
+
 **Time Tracker (Java)**  
 A tool I'm building to track and analyze my daily programming time.  
+This project was created with the help of online resources and guidance from ChatGPT, as part of my learning journey in Java.
+
+**Animal-Shelter-Management (Java)**  
+A tool I'm building to improve my skills.  
+This project is a Java-based animal shelter management system that allows you to manage animals in a shelter. The project is a work in progress, with more features planned for the future.  
 This project was created with the help of online resources and guidance from ChatGPT, as part of my learning journey in Java.
 
 ## 📫 Let's connect!
