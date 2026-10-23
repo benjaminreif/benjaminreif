@@ -4,13 +4,13 @@ I'm an IT student at TU Darmstadt in Germany, with a passion for software develo
 
 ## 💻 Tech Stack
 - Java (main focus)
-- HTML/CSS (basic skills)
+- HTML / CSS / Java Script (basic skills)
 - Arduino / C++ (school projects)
 - Planning to learn Python for AI
 
 ## 🚀 Goals
-- Reach 2,000+ hours of focused programming practice during school and early university
-- Build useful and smart tools powered by AI
+- Reach 1,500+ hours of focused programming practice during university
+- Build useful and smart tools
 - Work in the financial tech industry — ideally in Switzerland 🇨🇭
 
 ## 📌 Current Projects
