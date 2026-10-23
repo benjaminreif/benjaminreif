@@ -25,4 +25,4 @@ This project is a Java-based animal shelter management system that allows you to
 This project was created with the help of online resources and guidance from ChatGPT, as part of my learning journey in Java.
 
 ## 📫 Let's connect!
-Feel free to explore my projects or check out my [LinkedIn profile](https://www.linkedin.com/in/XXX) *(in progress)*.
+Feel free to explore my projects or check out my [LinkedIn profile](www.linkedin.com/in/benjamin-reif).
