@@ -1,6 +1,6 @@
 # Hi there, I'm Benjamin 👋
 
-I'm an IT student at a specialized high school in Germany, with a passion for software development, AI, and finance.
+I'm an IT student at TU Darmstadt in Germany, with a passion for software development, AI, and finance.
 
 ## 💻 Tech Stack
 - Java (main focus)
