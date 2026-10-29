@@ -15,7 +15,7 @@ I'm an IT student at TU Darmstadt in Germany, with a passion for software develo
 
 ## 📌 Current Projects
 
-New project in progress...
+*New project in progress...*
 
 ## 📫 Let's connect!
 Feel free to explore my projects or check out my [LinkedIn profile](https://www.linkedin.com/in/benjamin-reif/).
